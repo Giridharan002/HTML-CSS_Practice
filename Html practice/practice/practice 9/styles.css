@@ -1,0 +1,46 @@
+.i1{
+    width: 300px;
+   
+    
+}
+
+.d1{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    
+}
+
+.b1{
+    position: absolute;
+    background-color:white;
+    top: 0;
+    width: 150px;
+    top: 300px;
+    border-color: black;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-size: 16px;
+    font-family: Arial;
+    font-weight: 500;
+    
+}
+
+.d2{
+    position: absolute;
+    background-color: white;
+    width: 300px;
+    top: 280px;
+    padding-bottom:130px;
+    opacity: 0.5;
+}
+
+.d3{
+    position: absolute;
+    background-color: black;
+    padding: 10px;
+    color: white;
+    right: 120px;
+    top: 10px;
+}

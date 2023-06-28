@@ -1,0 +1,52 @@
+.text{
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: Verdana;
+    margin-bottom: 0;
+    padding: 0;
+}
+
+.text1{
+    color: gray;
+    line-height: 15px;
+    font-size: 20px;
+    line-height: 30px;
+    margin-top: 0;
+    font-family: Verdana;
+    width: 450px;
+}
+
+.text2{
+    font-family: Verdana;
+    font-weight: bold;
+    width: 340px;
+}
+
+.Button1{
+    background-color: green;
+    border:none ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    font-family: Verdana;
+    border-radius: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    cursor: pointer;
+    transition-duration: 0.15s;
+}
+.Button1:hover{
+    background-color:greenyellow;
+
+}
+
+.image{
+  width: 300px;
+}
+
+.para{
+ display: inline-block;
+
+}

@@ -1,0 +1,45 @@
+.pic-1{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    
+
+}
+
+.heading{
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+.para{
+    margin-left: 20px;
+    color: rgb(100, 100, 100);
+    font-size: 18px;
+}
+
+.add-frd{
+    background-color: rgb(33, 33, 240);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 5px;
+    margin-left: 20px;
+    width: 150px;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    border: none;
+    margin-bottom: 20px;
+
+}
+
+.image-1{
+    border: solid none;
+    width: 200px;
+    margin-top: 50px;
+    margin-left: 50px;
+    box-shadow: 0 0 5px rgb(0, 0,0,0.3);
+    display: inline-block;
+    
+
+    
+}
